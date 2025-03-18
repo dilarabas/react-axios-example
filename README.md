@@ -12,7 +12,7 @@ Bu uygulama, JSONPlaceholder API'sinden kullanıcı verilerini ve gönderilerini
 * **Node.js:** JavaScript'i sunucu tarafında çalıştırmak için kullanılan platform.
 * **axios:** HTTP istekleri yapmak için kullanılan Promise tabanlı bir kütüphane.
 
-## Örnekler
+## Program Çıktısı
 
 Aşağıdaki resim, programın örnek çıktısını göstermektedir:
 
